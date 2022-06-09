@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingLady22
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 A software developer
+- 🌱 HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me ...
 
 <!---
